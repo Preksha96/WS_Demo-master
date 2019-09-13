@@ -1,0 +1,30 @@
+{
+  "name": "ws_demo",
+  "version": "1.0.0",
+  "description": "Sample demo node application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepk01/WS_Demo.git"
+  },
+  "author": "sandeep k",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeepk01/WS_Demo/issues"
+  },
+  "homepage": "https://github.com/sandeepk01/WS_Demo#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "chalk": "^2.4.2",
+    "chokidar": "^3.0.2",
+    "express": "^4.17.1",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15",
+    "nodemon": "^1.19.2",
+    "vue": "^2.6.10"
+  }
+}
